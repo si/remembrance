@@ -130,8 +130,8 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     min-width: 140px;
 }
 .btn-default{
-    color: #777777;
-    border-color: #999999
+    color: #EEE;
+    border-color: #EEE;
 }
 .btn-primary {
     color: #3472F7;
@@ -183,9 +183,9 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     background-color: rgba(0,0,0,.0);
 }
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
-    color: #666666;
-    border-color: #888888;
-    background-color: rgba(0,0,0,.0);
+    color: #FFF;
+    border-color: #FFF;
+    background-color: rgba(0,0,0,.1);
 }
 .btn:active, .btn.active {
     background-image: none;
