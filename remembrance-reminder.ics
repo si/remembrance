@@ -24,8 +24,8 @@ TRANSP:OPAQUE
 DTEND;TZID=Europe/London:20141111T110200
 UID:C826A580-2D4F-420E-AB47-03A6427D50AE
 DTSTAMP:20161102T093556Z
-LOCATION:remembrancereminder.com
-URL;VALUE=URI:http://remembrancereminder.com
+LOCATION:remembrance-reminder.netlify.app
+URL;VALUE=URI:http://remembrance-reminder.netlify.app
 SEQUENCE:0
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 SUMMARY:Remembrance Reminder
